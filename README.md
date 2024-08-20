@@ -1,2 +1,3 @@
 # 42_Libft
-something to add later... the first project at 42 as student. porpuse is to create a library with some functions , and create someothers that may be usefull in other projects. ALTERAR.
+This is the first project at 42! 
+I had to create and re-create some standard C library functions for future projects, and have a deeper understanding of data structures and basic algorithms.
