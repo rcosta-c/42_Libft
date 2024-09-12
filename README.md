@@ -3,17 +3,17 @@
 ![C](https://img.shields.io/badge/C-Language-blue?style=for-the-badge)
 ![42 School](https://img.shields.io/badge/42-Porto-black?style=for-the-badge)
 
-## 📝 Descrição
+## 📝 Description
 
-Este projeto consiste em recriar funções da biblioteca padrão da linguagem C, permitindo um entendimento mais profundo da linguagem e do funcionamento dessas funções a baixo nível. A **Libft** faz parte do currículo da 42 Porto e é uma das bases para projetos futuros mais complexos.
+This project consists of recreating functions from the C language standard library, allowing a deeper understanding of the language and how these functions work at a low level. **Libft** is part of the 42 Porto curriculum and is one of the foundations for more complex future projects.
 
-## 🚀 Funcionalidades
+## 🚀 Features
 
-- Implementação de funções da biblioteca padrão C como `strlen`, `strcpy`, `memset`, `malloc`, entre outras.
-- Funções auxiliares para manipulação de strings, memória e listas encadeadas.
-- Modularidade e reusabilidade para projetos futuros.
+- Implementation of C standard library functions such as `strlen`, `strcpy`, `memset`, `malloc`, among others.
+- Auxiliary functions for manipulating strings, memory and linked lists.
+- Modularity and reusability for future projects.
 
-## 📂 Estrutura de Arquivos
+## 📂 File Structure
 
 ft_atoi.c     ft_lstadd_back.c	 ft_memchr.c	  ft_split.c	 ft_strncmp.c
 ft_bzero.c    ft_lstadd_front.c  ft_memcmp.c	  ft_strchr.c	 ft_strnstr.c
